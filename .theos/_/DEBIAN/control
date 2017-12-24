@@ -1,0 +1,11 @@
+Package: com.yourcompany.kndaemondemo
+Name: knDaemonDemo
+Depends: 
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: https://zhangkn.github.io/archive/
+Author: https://zhangkn.github.io/archive/
+Section: System
+Tag: role::hacker
+Version: 0.0.1-3+debug
+Installed-Size: 200
